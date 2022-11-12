@@ -1,0 +1,19 @@
+{
+  "name": "buger-testes",
+  "version": "1.0.0",
+  "description": "Testes automatizados de aceitação com Cypress do site BugerEats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "author": "Diego Gonzales de Andrade",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.11.0",
+    "cypress-file-upload": "^5.0.8",
+    "faker": "^5.5.3",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}

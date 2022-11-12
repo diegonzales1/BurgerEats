@@ -1,0 +1,18 @@
+{
+  "signup": {
+    "name": "deliver",
+    "cpf": "71954096003",
+    "email": "deliver@entregas.com",
+    "whatsapp": "1199999999",
+    "address": {
+      "postalcode": "04534011",
+      "street": "Rua Joaquim Floriano",
+      "number": "1000",
+      "details": "Ap13 Bl 22",
+      "district": "Itaim Bibi",
+      "city_state": "São Paulo/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  }
+}
